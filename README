@@ -1,0 +1,18 @@
+# Aquila Analytics Platform
+
+Plataforma de inteligência financeira inspirada em adquirentes e fintechs modernas.
+
+O projeto simula uma operação de pagamentos com milhões de transações sintéticas e demonstra como construir uma plataforma completa de dados:
+
+- Event Streaming com Kafka
+- Data Lake
+- Data Warehouse
+- ETL/ELT
+- Dashboard Executivo
+- Benchmark Inteligente
+- Predição de Churn
+- Forecast de Fluxo de Caixa
+- Detecção de Fraude
+- IA Generativa para Insights Financeiros
+
+Objetivo: demonstrar habilidades em Engenharia de Dados, Ciência de Dados e IA aplicada ao mercado financeiro.
