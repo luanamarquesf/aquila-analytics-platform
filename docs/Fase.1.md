@@ -113,11 +113,11 @@ Semana 2 — Estrutura do Projeto
 
 Criar repositório.
 
-finsight-analytics-platform
+aquila-analytics-platform
 
 Estrutura:
 
-finsight/
+aquila/
 │
 ├── docs/
 │
